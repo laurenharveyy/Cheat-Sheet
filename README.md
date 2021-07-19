@@ -30,3 +30,5 @@ _let's **combine** bold and italics_
 1. upload an image to github (upload a new file)
 2. reference the file in your markdown
 3. be sure to add an alt text description to your image
+
+![Gluten][My Post.png]
