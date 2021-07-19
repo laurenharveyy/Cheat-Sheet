@@ -31,4 +31,12 @@ _let's **combine** bold and italics_
 2. reference the file in your markdown
 3. be sure to add an alt text description to your image
 
-![Gluten][My Post.png]
+!['My Post','Gluten'](/My Post.png)
+
+*this is a link*
+[Google](https://www.google.com/)
+
+*this is a blockquote*
+
+> How to get down<br>
+> Good Lord
